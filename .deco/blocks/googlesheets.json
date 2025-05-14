@@ -1,3 +1,12 @@
 {
-  "__resolveType": "site/apps/deco/googlesheets.ts"
+  "__resolveType": "site/apps/deco/googlesheets.ts",
+  "auth": {
+    "clientSecret": {
+      "__resolveType": "website/loaders/secret.ts",
+      "encrypted": "8563fe5d713d52bc8b0fcb0e689337e798a91c21448354fc1b896f053a61e2d4be8c221044ead73ea90dc89e98537cda",
+      "name": "sheets_secret"
+    },
+    "clientId": "486837182402-oqehcg47uium3clo2t4q774devv3si3g.apps.googleusercontent.com",
+    "redirectUri": "https://localhost--mcp-sheet.deco.site/"
+  }
 }
